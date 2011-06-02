@@ -4,6 +4,7 @@ Código criado em sessões de Dojo pela turma da disciplina *Padrões de Projeto
 
 ## Singleton e Strategy
 Estes dois padrões estão implementados nas classes:
+
 * Log
 * IStrategy
 * TxtFile
