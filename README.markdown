@@ -30,3 +30,4 @@ Os dois padrões estão implementados nas classes:
 * ITelephone
 * NoteBR
 * NoteUSA
+* TestNotes
