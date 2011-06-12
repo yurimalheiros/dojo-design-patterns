@@ -11,3 +11,22 @@ Os dois padrões estão implementados nas classes:
 * HTMLFile
 * TestLog
 
+## Iterator
+
+* Book
+* Store
+* ICollection
+* IIterator
+* TestStore
+
+## AbstractFactory
+
+* AbstractFactory
+* AddressBR
+* AddressUSA
+* IAddress
+* TelephoneBR
+* TelephoneUSA
+* ITelephone
+* NoteBR
+* NoteUSA
